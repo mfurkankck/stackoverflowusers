@@ -1,0 +1,2 @@
+rootProject.name='SOFUser'
+include ':app'
